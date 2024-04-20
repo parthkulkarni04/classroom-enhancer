@@ -35,14 +35,35 @@ In today's fast-paced digital landscape, traditional learning methods can someti
 
 ## **Getting Started**
 
-To set up and deploy  locally, follow these steps:
+To set up and deploy locally, follow these steps:
 
 1. Clone the repository to your local machine.
-2. Install the necessary dependencies listed in the `requirements.txt` file.
-3. Configure API keys for external services such as AssemblyAI, Google Generative AI, and MongoDB.
-4. Run the Flask application using `python app.py`.
-5. Access the platform via the provided URL and explore its features.
+2. Install the necessary dependencies listed in the `requirements.txt` file for the backend and `package.json` for the frontend.
+    - For the backend:
+      ```
+      cd Flask-backend
+      pip install -r requirements.txt
+      ```
+    - For the frontend:
+      ```
+      cd frontend
+      npm install
+      ```
 
+3. Configure API keys for external services such as AssemblyAI, Google Generative AI, and MongoDB.
+4. Run the Flask Backend Server 
+    ```
+    cd Flask-backend
+    python app.py
+    ```
+    
+5. Run the Frontend Server:
+    ```
+    cd frontend
+    npm run dev
+    ```
+
+6. Access the platform via the provided URL and explore its features.
 
 
 **Polygon Network Integration:**
