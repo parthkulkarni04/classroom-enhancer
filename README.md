@@ -35,11 +35,14 @@ In today's fast-paced digital landscape, traditional learning methods can someti
 
 ### *** Project Images **
 
+![Image 1](https://github.com/parthkulkarni04/classroom-enhancer/assets/113795475/c316a26f-0fb9-47f8-b683-ff01e1e69bf6) ![Image 2](https://github.com/parthkulkarni04/classroom-enhancer/assets/113795475/246c53c7-0970-4684-85bf-93a95e926d00)
 
-![WhatsApp Image 2024-04-20 at 1 32 39 PM](https://github.com/parthkulkarni04/classroom-enhancer/assets/123918593/3c43a8b7-8327-4183-a068-28cfa9987e27)![WhatsApp Image 2024-04-20 at 1 32 08 PM](https://github.com/parthkulkarni04/classroom-enhancer/assets/123918593/79a8007c-4b8c-453e-b6f2-7cb450e1541d)
-![WhatsApp Image 2024-04-20 at 1 31 48 PM](https://github.com/parthkulkarni04/classroom-enhancer/assets/123918593/29adb54e-c5b4-41c9-826e-cc38d6a873c4)![WhatsApp Image 2024-04-20 at 1 31 27 PM](https://github.com/parthkulkarni04/classroom-enhancer/assets/123918593/f78259dc-018a-49a4-a7ad-95cfeb5c16a7)
-![WhatsApp Image 2024-04-20 at 1 31 27 PM](https://github.com/parthkulkarni04/classroom-enhancer/assets/123918593/2e65cc68-bb66-47ea-9e5b-e3e60301d8fd)![WhatsApp Image 2024-04-20 at 1 25 28 PM](https://github.com/parthkulkarni04/classroom-enhancer/assets/123918593/91d14012-c242-42de-ba1a-92e4306cc954)
-![WhatsApp Image 2024-04-20 at 1 23 39 PM](https://github.com/parthkulkarni04/classroom-enhancer/assets/123918593/1d6175c2-ba47-4725-8040-4473111c2aee)![WhatsApp Image 2024-04-20 at 1 21 02 PM](https://github.com/parthkulkarni04/classroom-enhancer/assets/123918593/23e6d493-86b7-420f-ad02-9da7e50c769a)
+![Image 3](https://github.com/parthkulkarni04/classroom-enhancer/assets/113795475/fd7ffc33-7aa8-4830-b2c0-ef5c7b3e5e3a) ![Image 4](https://github.com/parthkulkarni04/classroom-enhancer/assets/113795475/8de83f59-9b2a-416f-8ed4-090d307329fe)
+
+![Image 5](https://github.com/parthkulkarni04/classroom-enhancer/assets/113795475/7eb4f539-c371-4683-b045-cf1bd54aa607) ![Image 6](https://github.com/parthkulkarni04/classroom-enhancer/assets/113795475/09150560-1d5b-4a4f-b8e1-d18a7950128f)
+
+![Image 7](https://github.com/parthkulkarni04/classroom-enhancer/assets/113795475/99fffbef-c3e6-4087-bc37-adfae88607f8) ![Image 8](https://github.com/parthkulkarni04/classroom-enhancer/assets/113795475/f28e8e39-52b4-4b38-aefa-7be358b96474)
+
 
 
 ## **Getting Started**
