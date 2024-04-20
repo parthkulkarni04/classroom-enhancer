@@ -54,10 +54,7 @@ In today's fast-paced digital landscape, traditional learning methods can someti
   <img src="https://github.com/parthkulkarni04/classroom-enhancer/assets/113795475/99fffbef-c3e6-4087-bc37-adfae88607f8" width="400" />
   <img src="https://github.com/parthkulkarni04/classroom-enhancer/assets/113795475/f28e8e39-52b4-4b38-aefa-7be358b96474" width="400" />
 </p>
-<p float="left">
-    <img src="https://github.com/parthkulkarni04/classroom-enhancer/assets/113795475/9c4542bd-84f9-4d04-9476-904725778e6c" width="400" />
 
-</p>
 
 
 
