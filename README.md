@@ -35,7 +35,7 @@ In today's fast-paced digital landscape, traditional learning methods can someti
 
 ## **Getting Started**
 
-To set up and deploy the Educational Platform locally, follow these steps:
+To set up and deploy  locally, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Install the necessary dependencies listed in the `requirements.txt` file.
@@ -43,13 +43,6 @@ To set up and deploy the Educational Platform locally, follow these steps:
 4. Run the Flask application using `python app.py`.
 5. Access the platform via the provided URL and explore its features.
 
-## **Contributing**
-
-We welcome contributions from the community to enhance and expand the functionality of the Educational Platform. If you have ideas for new features, improvements, or bug fixes, please open an issue or submit a pull request with your changes.
-
-## **License**
-
-This project is licensed under the [MIT License](LICENSE), allowing for free use, modification, and distribution.
 
 
 **Polygon Network Integration:**
