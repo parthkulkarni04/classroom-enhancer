@@ -35,13 +35,25 @@ In today's fast-paced digital landscape, traditional learning methods can someti
 
 ### *** Project Images **
 
-![Image 1](https://github.com/parthkulkarni04/classroom-enhancer/assets/113795475/c316a26f-0fb9-47f8-b683-ff01e1e69bf6) ![Image 2](https://github.com/parthkulkarni04/classroom-enhancer/assets/113795475/246c53c7-0970-4684-85bf-93a95e926d00)
+<p float="left">
+  <img src="https://github.com/parthkulkarni04/classroom-enhancer/assets/113795475/c316a26f-0fb9-47f8-b683-ff01e1e69bf6" width="400" />
+  <img src="https://github.com/parthkulkarni04/classroom-enhancer/assets/113795475/246c53c7-0970-4684-85bf-93a95e926d00" width="400" />
+</p>
 
-![Image 3](https://github.com/parthkulkarni04/classroom-enhancer/assets/113795475/fd7ffc33-7aa8-4830-b2c0-ef5c7b3e5e3a) ![Image 4](https://github.com/parthkulkarni04/classroom-enhancer/assets/113795475/8de83f59-9b2a-416f-8ed4-090d307329fe)
+<p float="left">
+  <img src="https://github.com/parthkulkarni04/classroom-enhancer/assets/113795475/fd7ffc33-7aa8-4830-b2c0-ef5c7b3e5e3a" width="400" />
+  <img src="https://github.com/parthkulkarni04/classroom-enhancer/assets/113795475/8de83f59-9b2a-416f-8ed4-090d307329fe" width="400" />
+</p>
 
-![Image 5](https://github.com/parthkulkarni04/classroom-enhancer/assets/113795475/7eb4f539-c371-4683-b045-cf1bd54aa607) ![Image 6](https://github.com/parthkulkarni04/classroom-enhancer/assets/113795475/09150560-1d5b-4a4f-b8e1-d18a7950128f)
+<p float="left">
+  <img src="https://github.com/parthkulkarni04/classroom-enhancer/assets/113795475/7eb4f539-c371-4683-b045-cf1bd54aa607" width="400" />
+  <img src="https://github.com/parthkulkarni04/classroom-enhancer/assets/113795475/09150560-1d5b-4a4f-b8e1-d18a7950128f" width="400" />
+</p>
 
-![Image 7](https://github.com/parthkulkarni04/classroom-enhancer/assets/113795475/99fffbef-c3e6-4087-bc37-adfae88607f8) ![Image 8](https://github.com/parthkulkarni04/classroom-enhancer/assets/113795475/f28e8e39-52b4-4b38-aefa-7be358b96474)
+<p float="left">
+  <img src="https://github.com/parthkulkarni04/classroom-enhancer/assets/113795475/99fffbef-c3e6-4087-bc37-adfae88607f8" width="400" />
+  <img src="https://github.com/parthkulkarni04/classroom-enhancer/assets/113795475/f28e8e39-52b4-4b38-aefa-7be358b96474" width="400" />
+</p>
 
 
 
