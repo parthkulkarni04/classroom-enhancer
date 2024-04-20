@@ -109,7 +109,6 @@ function Graphs() {
 
   return (
     <div className="container mx-auto px-4 py-8 border border-gray-300 rounded-lg">
-             <w3m-button />
       <center>
         <h1 className="mb-4 text-3xl font-extrabold text-gray-900 dark:text-red md:text-5xl lg:text-6xl">
           <span className="text-transparent bg-clip-text bg-gradient-to-r to-emerald-600 from-sky-400">
@@ -156,8 +155,15 @@ function Graphs() {
   <h2 className="text-xl font-semibold mb-2" style={{ marginLeft:"140px"}}>Pie Chart</h2>
   <div style={{ width: '400px', height: '400px' , marginLeft:'140px'} } className="bg-white p-4 rounded-lg shadow-md border border-gray-200">
     <PieChart correct={numberOfOnes} incorrect={answerSize - numberOfOnes} />
+    <br />
+    <br />
+    <br />
+    <button type="button" class="text-white bg-gradient-to-r from-purple-500 to-pink-500 hover:bg-gradient-to-l focus:ring-4 focus:outline-none focus:ring-purple-200 dark:focus:ring-purple-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2">Issue Certificate</button>
+
   </div>
+  
 </div>
+
       </div>
     </div>
   );
